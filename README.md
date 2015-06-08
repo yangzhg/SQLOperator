@@ -1,5 +1,5 @@
 # SQLOperator
-an c++ wrapper of sql operation using variadic template
+an c++ wrapper of mysql operation using variadic template
 
 usage:                                                                                          
 operator.execute(                                                                             
